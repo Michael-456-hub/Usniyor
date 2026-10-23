@@ -1,3 +1,3 @@
 # Usniyor
-Sex
-print("Hello, world!")
+  Sex
+
